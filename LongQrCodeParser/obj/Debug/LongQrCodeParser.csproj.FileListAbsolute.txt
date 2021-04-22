@@ -1,0 +1,13 @@
+C:\Users\eser\source\repos\LongQrCodeParser\LongQrCodeParser\bin\Debug\LongQrCodeParser.exe.config
+C:\Users\eser\source\repos\LongQrCodeParser\LongQrCodeParser\bin\Debug\LongQrCodeParser.exe
+C:\Users\eser\source\repos\LongQrCodeParser\LongQrCodeParser\bin\Debug\LongQrCodeParser.pdb
+C:\Users\eser\source\repos\LongQrCodeParser\LongQrCodeParser\obj\Debug\LongQrCodeParser.csproj.CoreCompileInputs.cache
+C:\Users\eser\source\repos\LongQrCodeParser\LongQrCodeParser\obj\Debug\LongQrCodeParser.exe
+C:\Users\eser\source\repos\LongQrCodeParser\LongQrCodeParser\obj\Debug\LongQrCodeParser.pdb
+C:\Users\eser\OneDrive\Masaüstü\New folder\LongQrCodeParser\LongQrCodeParser\bin\Debug\LongQrCodeParser.exe.config
+C:\Users\eser\OneDrive\Masaüstü\New folder\LongQrCodeParser\LongQrCodeParser\bin\Debug\LongQrCodeParser.exe
+C:\Users\eser\OneDrive\Masaüstü\New folder\LongQrCodeParser\LongQrCodeParser\bin\Debug\LongQrCodeParser.pdb
+C:\Users\eser\OneDrive\Masaüstü\New folder\LongQrCodeParser\LongQrCodeParser\obj\Debug\LongQrCodeParser.csprojAssemblyReference.cache
+C:\Users\eser\OneDrive\Masaüstü\New folder\LongQrCodeParser\LongQrCodeParser\obj\Debug\LongQrCodeParser.csproj.CoreCompileInputs.cache
+C:\Users\eser\OneDrive\Masaüstü\New folder\LongQrCodeParser\LongQrCodeParser\obj\Debug\LongQrCodeParser.exe
+C:\Users\eser\OneDrive\Masaüstü\New folder\LongQrCodeParser\LongQrCodeParser\obj\Debug\LongQrCodeParser.pdb

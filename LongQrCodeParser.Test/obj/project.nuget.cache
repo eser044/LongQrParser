@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwdFbomkUHBbSrsqM9HkrPqT5QGdoVJBtmGxhsLmgqaGXbi4Kq+KBtkBmaKg6iHzLQ2GvQ5xouSU0BU1e7Zdeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eser\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\eser\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\eser\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\eser\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

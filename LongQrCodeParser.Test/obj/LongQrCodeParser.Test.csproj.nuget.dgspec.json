@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj": {}
+    "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj": {
+    "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj",
+        "projectUniqueName": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj",
         "projectName": "LongQrCodeParser.Test",
-        "projectPath": "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj",
+        "projectPath": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj",
         "packagesPath": "C:\\Users\\eser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser.Test\\obj\\",
+        "outputPath": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eser\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net472": {
             "targetAlias": "net472",
             "projectReferences": {
-              "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj": {
-                "projectPath": "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj"
+              "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj": {
+                "projectPath": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj"
               }
             }
           }
@@ -61,11 +61,11 @@
         }
       }
     },
-    "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj": {
+    "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj",
+        "projectUniqueName": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj",
         "projectName": "LongQrCodeParser",
-        "projectPath": "C:\\Users\\eser\\OneDrive\\Masaüstü\\New folder\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj"
+        "projectPath": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj"
       },
       "frameworks": {
         "net472": {}

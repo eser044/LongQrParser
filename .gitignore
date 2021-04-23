@@ -70,6 +70,7 @@ artifacts/
 *.svclog
 *.scc
 *.cache
+*.FileListAbsolute.txt
 
 # Chutzpah Test files
 _Chutzpah*

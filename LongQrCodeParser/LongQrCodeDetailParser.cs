@@ -8,7 +8,7 @@ namespace LongQrCodeParser
 {
     public static class LongQrCodeDetailParser
     {
-        public static T Parse<T>(string input) where T : ITlvCollectionData, new()
+        public static T Parse<T>(string input) where T :  ITlvCollectionData, new()
         {
             var tlvList = SplitToTlvFields(input);
             var collectionData = new T();
@@ -25,12 +25,16 @@ namespace LongQrCodeParser
                 else if (dataTlv is IsyeriLisanBilgiSablonu64) parsed = Parse<IsyeriLisanBilgiSablonu64>(find?.Value);
                 else parsed = find;
 
-                collectionData.Tlvs[i] = parsed;
+                int index = i;
+                if (find != null)
+                    index = Convert.ToInt32(find.Tag);
+
+                collectionData.Tlvs[index] = parsed;
                 if (find != null)
                 {
-                    collectionData.Tlvs[i].Value = find.Value;
-                    collectionData.Tlvs[i].Tag = find.Tag;
-                    collectionData.Tlvs[i].Length = find.Length;
+                    collectionData.Tlvs[index].Value = find.Value;
+                    collectionData.Tlvs[index].Tag = find.Tag;
+                    collectionData.Tlvs[index].Length = find.Length;
                 }
             }
 

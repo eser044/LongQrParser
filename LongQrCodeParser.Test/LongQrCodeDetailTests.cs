@@ -7,7 +7,7 @@ namespace LongQrCodeParser.Test
     public class LongQrCodeDetailTests
     {
         [Test]
-        public void BkmQRTest1()
+        public void BkmLongQRTest1()
         {
             //00 02 01 
             //01 02 11
@@ -168,7 +168,7 @@ namespace LongQrCodeParser.Test
         }
 
         [Test]
-        public void FastQRTest1()
+        public void FastLongQRTest1()
         {
             //00 02 01
             //01 02 12

@@ -21,8 +21,6 @@ namespace LongQrCodeParser.SubTags
         public Tlv Field04 => Tlvs[4];
         public Tlv Field05 => Tlvs[5];
         public Tlv Field07 => Tlvs[7];
-        public Tlv Field10 => Tlvs[10];
-        public Tlv Field11 => Tlvs[11];
         public Tlv Field12 => Tlvs[12];
 
         public IsyeriHesapBilgileri26()

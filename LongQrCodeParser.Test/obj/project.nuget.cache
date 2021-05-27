@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T8J8umwYQJgbHWj4AK9Mj3loR7UFXgC252UzCDsBv9ISM+6wzmXYp55yTXhpgsaNWlm4T85TBqtlAqsI7eJ8WQ==",
+  "dgSpecHash": "xStXXQccxAk4RU1WVoXlNZ9qbkyRmuFLzFPKgExXcMJ92eoDC9pbXy6jVAHqAQbNQDJJqjN5yZYF7JIldDnHeA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser.Test\\LongQrCodeParser.Test.csproj",
   "expectedPackageFiles": [

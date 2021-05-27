@@ -7,7 +7,7 @@ namespace LongQrCodeParser.Test
     public class LongQrCodeDetailTests
     {
         [Test]
-        public void BkmQRTest1()
+        public void BkmLongQRTest1()
         {
             //00 02 01 
             //01 02 11
@@ -130,7 +130,7 @@ namespace LongQrCodeParser.Test
             Assert.That(longQrCodeDetail.KodKimlikBilgileriSablonu51.SonGecerlilikZamani07.LengthString, Is.EqualTo("12"));
             Assert.That(longQrCodeDetail.KodKimlikBilgileriSablonu51.SonGecerlilikZamani07.Value, Is.EqualTo("200529150159"));
 
-            
+
             Assert.That(longQrCodeDetail.IsYeriKategoriKodu52, Is.Not.Null);
             Assert.That(longQrCodeDetail.IsYeriKategoriKodu52.Tag, Is.EqualTo("52"));
             Assert.That(longQrCodeDetail.IsYeriKategoriKodu52.LengthString, Is.EqualTo("04"));
@@ -168,7 +168,7 @@ namespace LongQrCodeParser.Test
         }
 
         [Test]
-        public void FastQRTest1()
+        public void FastLongQRTest1()
         {
             //00 02 01
             //01 02 12
@@ -232,12 +232,12 @@ namespace LongQrCodeParser.Test
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.IsyeriIban01.Tag, Is.EqualTo("01"));
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.IsyeriIban01.LengthString, Is.EqualTo("26"));
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.IsyeriIban01.Value, Is.EqualTo("TR123456789012345678901234"));
-                                         
+
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.KareKodAkýsTuru02.Tag, Is.Not.Null);
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.KareKodAkýsTuru02.Tag, Is.EqualTo("02"));
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.KareKodAkýsTuru02.LengthString, Is.EqualTo("02"));
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.KareKodAkýsTuru02.Value, Is.EqualTo("01"));
-                                         
+
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.OzetGuvenlikHashDegeri20.Tag, Is.Not.Null);
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.OzetGuvenlikHashDegeri20.Tag, Is.EqualTo("20"));
             Assert.That(longQrCodeDetail.IsyeriHesapBilgileri30.OzetGuvenlikHashDegeri20.LengthString, Is.EqualTo("32"));

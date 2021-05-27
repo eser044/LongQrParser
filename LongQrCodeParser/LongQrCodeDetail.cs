@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using LongQrCodeParser.HasSubTags;
+﻿using LongQrCodeParser.HasSubTags;
 using LongQrCodeParser.SubTags;
-
-// ReSharper disable IdentifierTypo
+using System;
+using System.Collections.Generic;
 
 namespace LongQrCodeParser
 {
@@ -128,6 +126,7 @@ namespace LongQrCodeParser
 
         // TODO #B burası kullanılacak
         private static Dictionary<int, Type> _mappings;
+
         static Dictionary<int, Type> GetTypeMappings()
         {
             if (_mappings == null)

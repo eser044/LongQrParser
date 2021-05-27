@@ -1,5 +1,3 @@
-using LongQrCodeParser.HasSubTags;
-using LongQrCodeParser.SubTags;
 using NUnit.Framework;
 
 namespace LongQrCodeParser.Test

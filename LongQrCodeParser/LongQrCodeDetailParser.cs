@@ -57,7 +57,7 @@ namespace LongQrCodeParser
                 tlvs.Add(tlv);
                 var tostring = $"{tlv.Tag}{tlv.LengthString}{tlv.Value}";
                 var subInput = input.Substring(tostring.Length, input.Length - tostring.Length);
-                SplitToTlvFields(subInput, tlvs); // TODO while olacak
+                SplitToTlvFields(subInput, tlvs);
             }
         }
 

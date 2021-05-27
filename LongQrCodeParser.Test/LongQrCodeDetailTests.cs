@@ -39,8 +39,6 @@ namespace LongQrCodeParser.Test
 
             var longQrCodeDetail = LongQrCodeDetailParser.Parse<LongQrCodeDetail>(input);
 
-            var a = longQrCodeDetail.Tlvs.Find(x => x != null ? x.Tag.Equals("26") : false);
-
             Assert.That(longQrCodeDetail, Is.Not.Null);
             Assert.That(longQrCodeDetail.KareKodBicimGostergesi00, Is.Not.Null);
             Assert.That(longQrCodeDetail.KareKodBicimGostergesi00.Tag, Is.EqualTo("00"));

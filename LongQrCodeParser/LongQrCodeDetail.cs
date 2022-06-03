@@ -39,7 +39,7 @@ namespace LongQrCodeParser
         public Tlv IsyeriHesapBilgileri28 => Tlvs[28];
         public Tlv IsyeriHesapBilgileri29 => Tlvs[29];
         public IsyeriHesapBilgileri30 IsyeriHesapBilgileri30 => Tlvs[30] as IsyeriHesapBilgileri30;
-        public Tlv IsyeriHesapBilgileri31 => Tlvs[31];
+        public Tlv IlgiliMesajReferansi31 => Tlvs[31];
         public Tlv IsyeriHesapBilgileri32 => Tlvs[32];
         public Tlv IsyeriHesapBilgileri33 => Tlvs[33];
         public Tlv IsyeriHesapBilgileri34 => Tlvs[34];

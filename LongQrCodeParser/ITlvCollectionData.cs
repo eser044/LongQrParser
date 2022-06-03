@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using LongQrCodeParser.HasSubTags;
 
 namespace LongQrCodeParser
 {

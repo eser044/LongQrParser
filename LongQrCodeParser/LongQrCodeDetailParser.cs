@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using LongQrCodeParser.HasSubTags;
-using LongQrCodeParser.SubTags;
+using LongQrCodeParser.SubTlv;
 
 namespace LongQrCodeParser
 {

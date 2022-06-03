@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
-using LongQrCodeParser.HasSubTags;
 
-namespace LongQrCodeParser.SubTags
+namespace LongQrCodeParser.SubTlv
 {
     public class IsyeriLisanBilgiSablonu64 : Tlv, ITlvCollectionData
     {

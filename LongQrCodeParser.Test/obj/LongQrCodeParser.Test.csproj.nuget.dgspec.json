@@ -57,7 +57,7 @@
               "version": "[3.16.1, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -65,7 +65,12 @@
       "restore": {
         "projectUniqueName": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj",
         "projectName": "LongQrCodeParser",
-        "projectPath": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj"
+        "projectPath": "D:\\Projects\\LongQrCodeParser\\LongQrCodeParser\\LongQrCodeParser.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net472": {}

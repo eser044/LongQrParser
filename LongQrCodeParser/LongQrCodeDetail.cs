@@ -1,5 +1,4 @@
-﻿using LongQrCodeParser.HasSubTags;
-using LongQrCodeParser.SubTags;
+﻿using LongQrCodeParser.SubTlv;
 using System;
 using System.Collections.Generic;
 
